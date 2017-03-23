@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/4380639/how-to-display-the-current-time-and-date-in-c-sharp
+http://www.codeproject.com/Articles/26977/A-WatermarkTextBox-in-lines-of-XAML
+http://www.dotnetperls.com/backgroundworker
+http://stackoverflow.com/questions/5483565/how-to-use-wpf-background-worker
+http://stackoverflow.com/questions/2337822/wpf-listbox-scroll-to-end-automatically
+http://stackoverflow.com/questions/12715554/the-calling-thread-must-be-sta-because-many-ui-components-require-this-error-in
